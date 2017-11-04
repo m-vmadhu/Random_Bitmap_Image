@@ -1,2 +1,8 @@
 # Random_Bitmap_Image
-Utilize random.org REST API to create random RGB bitmap image
+
+Pre_req:
++ pip (for installations of the following module) 
++ requests module
++ pillow module 
+
+This file utilizes random.org REST API calls
